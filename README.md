@@ -1,4 +1,8 @@
-AI Assistance Declaration: I used ChatGPT (GPT-5.6 Sol) on September 22, 2026, for README structure and Markdown formatting. Prompts used: “Explain what sections a good GitHub README for an R data analysis project should include.” and “Revise the sections list so it’s concise and uses Markdown headers and bullet formatting.” I verified the output using GitHub Preview and manually checked the headings, lists, and code blocks. I am responsible for the accuracy and originality of this work.
+## AI Assistance Disclosure
+- AI tool used: ChatGPT (GPT-5.6 Sol)
+- Main prompts: “Explain what sections a good GitHub README for an R data analysis project should include.” and “Revise the sections list so it’s concise and uses Markdown headers and bullet formatting.”
+- Changes made: I reviewed the output, checked the Markdown preview, and edited the content before submission.
+  AI Assistance Declaration: I used ChatGPT (GPT-5.6 Sol) on September 22, 2026, for README structure and Markdown formatting. Prompts used: “Explain what sections a good GitHub README for an R data analysis project should include.” and “Revise the sections list so it’s concise and uses Markdown headers and bullet formatting.” I verified the output using GitHub Preview and manually checked the headings, lists, and code blocks. I am responsible for the accuracy and originality of this work.
  # R Data Analysis Project
 
 ## Overview
