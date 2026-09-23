@@ -1,0 +1,39 @@
+---
+title: "R Data Analysis"
+author: "Kesavakumary"
+output: html_document
+---
+
+# Purpose
+
+This R Markdown document demonstrates a simple analysis using synthetic data. No real or personal data is used.
+
+# Inputs
+
+The analysis uses a small set of synthetic numeric values.
+
+```{r}
+data <- c(10, 20, 30, 40, 50)
+data
+```
+
+# Analysis
+
+The following code calculates the mean of the synthetic data.
+
+```{r}
+mean_value <- mean(data)
+mean_value
+```
+
+# Outputs
+
+The output shows the calculated mean of the synthetic dataset.
+
+```{r}
+summary(data)
+```
+
+# Conclusion
+
+This example demonstrates how R Markdown can combine documentation, R code, and analysis results in one file.
