@@ -1,4 +1,5 @@
-# Appendix: AI Prompts and Key Responses
+AI Assistance Declaration: I used ChatGPT (GPT-5.6 Sol) on September 22, 2026, for documentation structure, Markdown formatting, and writing assistance. I reviewed all AI-generated content manually. I am responsible for the accuracy and originality of this work.
+  # Appendix: AI Prompts and Key Responses
 
 ## AI Tool
 - Tool: ChatGPT
