@@ -4,7 +4,8 @@ author: "Kesavakumary"
 output: html_document
 ---
 
-# Purpose
+AI Assistance Declaration: I used ChatGPT (GPT-5.6 Sol) on September 22, 2026, for R Markdown structure, formatting, and documentation suggestions. I reviewed the output manually and checked the Markdown formatting. All final calculations are done by myself. I am responsible for the accuracy and originality of this work.
+ # Purpose
 
 This R Markdown document demonstrates a simple analysis using synthetic data. No real or personal data is used.
 
